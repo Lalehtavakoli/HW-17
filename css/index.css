@@ -93,14 +93,16 @@ p {
   flex-direction: row;
   margin-top: 100px;
   align-items: center;
+  font-size: 18px;
 }
 
 .profileimage{
-height: 800px;
+height: 1000px;
 width: auto;
 }
 .noteforhero{
   padding-left: 60px;
+  font-size: 24px;
 }
 
 .footersocialmedia{
@@ -113,9 +115,9 @@ list-style-type: none;
 }
 
 .linkedinlogo{
-  padding-bottom: 2000px;
+  padding-bottom: 800px;
 }
 
 .instagramlogo{
-  padding-top: 1000px;
+  padding-top: 0px;
 }
