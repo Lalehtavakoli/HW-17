@@ -8,7 +8,7 @@ box-sizing: border-box;
 font-family: 'Alegreya', serif;
 }
 body{
-  img src="Laleh.jpg" alt="Laleh" 
+ 
     width: 100%;
     height: auto;
   }
@@ -19,7 +19,7 @@ top: 0;
 left: 0; 
 width: 100%;
 padding: 20px 100px;
-background: transparent;
+background-color: white;
 display: flex;
 justify-content: space-between;
 align-items: center;
@@ -87,4 +87,35 @@ p {
   margin-top: 10px;
   color: #777;
   font-size: 14px;
+}
+.herosection{
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+  align-items: center;
+}
+
+.profileimage{
+height: 800px;
+width: auto;
+}
+.noteforhero{
+  padding-left: 60px;
+}
+
+.footersocialmedia{
+display: flex;
+flex-direction: row;
+list-style-type: none;
+}
+.gmail{
+  padding-bottom: 800px;
+}
+
+.linkedinlogo{
+  padding-bottom: 2000px;
+}
+
+.instagramlogo{
+  padding-top: 1000px;
 }
