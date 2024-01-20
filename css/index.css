@@ -99,6 +99,8 @@ p {
 .profileimage{
 height: 1000px;
 width: auto;
+
+padding-left: 300px;
 }
 .noteforhero{
   padding-left: 60px;
@@ -120,4 +122,12 @@ list-style-type: none;
 
 .instagramlogo{
   padding-top: 0px;
+}
+
+.footerlastline{
+  padding-bottom: 3000px;
+}
+
+.footerelements{
+  padding-bottom: 500px;
 }
